@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingTower_July8", "Assembly-CSharp-firstpass.csproj", "{885012FD-FD76-2F25-30DA-91039F6074A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RingTower_July8", "Assembly-CSharp.csproj", "{61085DA4-F741-C6C8-AED4-B40C2F05E704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885012FD-FD76-2F25-30DA-91039F6074A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885012FD-FD76-2F25-30DA-91039F6074A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885012FD-FD76-2F25-30DA-91039F6074A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885012FD-FD76-2F25-30DA-91039F6074A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61085DA4-F741-C6C8-AED4-B40C2F05E704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61085DA4-F741-C6C8-AED4-B40C2F05E704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61085DA4-F741-C6C8-AED4-B40C2F05E704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61085DA4-F741-C6C8-AED4-B40C2F05E704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
